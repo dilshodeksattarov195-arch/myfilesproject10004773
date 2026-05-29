@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokendrocess",
+        "uuid": 677766,
+        "checksum": "ypwbbe"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
